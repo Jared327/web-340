@@ -1,4 +1,4 @@
 # web-340 Introduction to Node.js
 ## Contributors
-* Robert Krasso
+* Richard Krasso
 * Jared Dwyer
