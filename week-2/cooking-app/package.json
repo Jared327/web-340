@@ -1,0 +1,23 @@
+{
+  "name": "recipeapp",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": ".index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jared327/web-330.git"
+  },
+  "keywords": [
+    "Recipe"
+  ],
+  "author": "Jared Dwyer & Richard Krasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jared327/web-330/issues"
+  },
+  "homepage": "https://github.com/Jared327/web-330#readme"
+}
